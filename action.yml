@@ -1,4 +1,4 @@
-name: "Automatic Releases"
+name: "Automatic Releases JS"
 author: "diillson"
 description: "Automate the GitHub release process with assets, changelogs, pre-releases, and more"
 inputs:
